@@ -1,0 +1,669 @@
+[
+  {
+    "timestamp": "2025-12-28 13:20:00",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "failed",
+      "error": "API调用失败：405 Client Error: Not Allowed for url: https://open.bigmodel.cn/oauth/2.0/token",
+      "data": {}
+    }
+  },
+  {
+    "timestamp": "2025-12-28 13:21:55",
+    "file_name": "三创赛一等奖.jpg",
+    "result": {
+      "status": "failed",
+      "error": "API调用失败：405 Client Error: Not Allowed for url: https://open.bigmodel.cn/oauth/2.0/token",
+      "data": {}
+    }
+  },
+  {
+    "timestamp": "2025-12-28 13:36:50",
+    "file_name": "三创赛一等奖.jpg",
+    "result": {
+      "status": "failed",
+      "error": "未知错误：Expecting value: line 1 column 1 (char 0)",
+      "data": {}
+    }
+  },
+  {
+    "timestamp": "2025-12-28 13:45:12",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, competition_type, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 13:49:55",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, competition_type, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 13:52:56",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, competition_type, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:02:01",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, competition_type, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:11:07",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:27:49",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:44:51",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:56:07",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 14:59:13",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:00:58",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_category, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:10:42",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:11:51",
+    "file_name": "三创赛一等奖.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:16:28",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:19:10",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:22:27",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:30:15",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:38:27",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:41:47",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:44:11",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 15:59:38",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 16:07:49",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 16:25:43",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 16:29:52",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 16:59:40",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:02:17",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "",
+        "competition_project": "",
+        "student_id": "",
+        "student_name": "",
+        "award_category": "省级",
+        "award_level": "",
+        "competition_type": "学科竞赛",
+        "organizer": "",
+        "award_time": "",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：student_college, competition_project, student_id, student_name, award_level, organizer, award_time, tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:25:12",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "Web应用开发大学组",
+        "student_id": "1621000723",
+        "student_name": "李梦馨",
+        "award_category": "国家级",
+        "award_level": "三等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "工业和信息化部人才交流中心",
+        "award_time": "2025年5月26日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:30:53",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "Web应用开发大学组",
+        "student_id": "1621000723",
+        "student_name": "李梦馨",
+        "award_category": "国家级",
+        "award_level": "三等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "工业和信息化部人才交流中心",
+        "award_time": "2025年5月26日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:40:43",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "Web应用开发大学组",
+        "student_id": "1621000723",
+        "student_name": "李梦馨",
+        "award_category": "国家级",
+        "award_level": "三等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "工业和信息化部人才交流中心",
+        "award_time": "2025年5月26日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:57:21",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "Web应用开发大学组",
+        "student_id": "1621000723",
+        "student_name": "李梦馨",
+        "award_category": "国家级",
+        "award_level": "三等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "工业和信息化部人才交流中心",
+        "award_time": "2025年5月26日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 17:58:13",
+    "file_name": "三创赛一等奖.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "第十四届全国大学生电子商务‘创新、创意及创业’挑战赛",
+        "student_id": "XS20241716011006005694",
+        "student_name": "梦之前",
+        "award_category": "国家级",
+        "award_level": "一等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "全国大学生电子商务‘创新、创意及创业’挑战赛竞赛组织委员会",
+        "award_time": "2022年5月22日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 23:08:46",
+    "file_name": "蓝桥杯省三.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "Web应用开发大学组",
+        "student_id": "1621000723",
+        "student_name": "李梦馨",
+        "award_category": "国家级",
+        "award_level": "三等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "工业和信息化部人才交流中心",
+        "award_time": "2025年5月26日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  },
+  {
+    "timestamp": "2025-12-28 23:09:43",
+    "file_name": "三创赛一等奖.jpg",
+    "result": {
+      "status": "success",
+      "data": {
+        "student_college": "湖北师范大学",
+        "competition_project": "第十四届全国大学生电子商务‘创新、创意及创业’挑战赛",
+        "student_id": "XS20241716011006005694",
+        "student_name": "梦之前",
+        "award_category": "省级",
+        "award_level": "一等奖",
+        "competition_type": "学科竞赛",
+        "organizer": "全国大学生电子商务‘创新、创意及创业’挑战赛竞赛组织委员会",
+        "award_time": "2023年5月22日",
+        "tutor_name": ""
+      },
+      "warning": "部分字段识别失败：tutor_name，请手动补充"
+    }
+  }
+]
